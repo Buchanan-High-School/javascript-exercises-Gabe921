@@ -28,8 +28,8 @@ let parentDiv = document.querySelector("#box3")
 let childElement = document.querySelector("#item1")
 let target = document.createElement("div")
 let newtarget = document.createElement("div")
-target.className = "item"
-newtarget.className = "item"
+target.className = "item newdiv"
+newtarget.className = "item newdiv"
 parentDiv.insertBefore(target, childElement).innerText = "New Div"
 parentDiv.appendChild(newtarget).textContent = "New Div"
 }
