@@ -59,7 +59,7 @@ You can combine these methods to have an array of names that are added to the DO
 
 ```js
 let names = ["Brian", "David", "Shelly"]
-let target = document.querySelector("#taget")
+let target = document.querySelector("#target")
 
 names.forEach(name => {
   let el = document.createElement("p")
