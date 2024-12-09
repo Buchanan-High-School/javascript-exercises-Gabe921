@@ -1,0 +1,88 @@
+const products = [
+    {
+      id: 'rec43w3ipXvP28vog',
+      title: 'High-Back Bench',
+      company: 'ikea',
+      image: 'https://www.course-api.com/images/store/product-1.jpeg',
+      price: 9.99,
+    },
+    {
+      id: 'rec4f2RIftFCb7aHh',
+      title: 'Albany Table',
+      company: 'marcos',
+      image: 'https://www.course-api.com/images/store/product-2.jpeg',
+      price: 79.99,
+    },
+    {
+      id: 'rec8kkCmSiMkbkiko',
+      title: 'Accent Chair',
+      company: 'caressa',
+      image: 'https://www.course-api.com/images/store/product-3.jpeg',
+      price: 25.99,
+    },
+    {
+      id: 'recBohCqQsot4Q4II',
+      title: 'Wooden Table',
+      company: 'caressa',
+      image: 'https://www.course-api.com/images/store/product-4.jpeg',
+  
+      price: 45.99,
+    },
+    {
+      id: 'recDG1JRZnbpRHpoy',
+      title: 'Dining Table',
+      company: 'caressa',
+      image: 'https://www.course-api.com/images/store/product-5.jpeg',
+  
+      price: 6.99,
+    },
+    {
+      id: 'recNWGyP7kjFhSqw3',
+      title: 'Sofa Set',
+      company: 'liddy',
+      image: 'https://www.course-api.com/images/store/product-6.jpeg',
+      price: 69.99,
+    },
+    {
+      id: 'recZEougL5bbY4AEx',
+      title: 'Modern Bookshelf',
+      company: 'marcos',
+      image: 'https://www.course-api.com/images/store/product-7.jpeg',
+      price: 8.99,
+    },
+    {
+      id: 'recjMK1jgTb2ld7sv',
+      title: 'Emperor Bed',
+      company: 'liddy',
+      image: 'https://www.course-api.com/images/store/product-8.jpeg',
+      price: 21.99,
+    },
+    {
+      id: 'recmg2a1ctaEJNZhu',
+      title: 'Utopia Sofa',
+      company: 'marcos',
+      image: 'https://www.course-api.com/images/store/product-9.jpeg',
+      price: 39.95,
+    },
+    {
+      id: 'recvKMNR3YFw0bEt3',
+      title: 'Entertainment Center',
+      company: 'liddy',
+      image: 'https://www.course-api.com/images/store/product-10.jpeg',
+      price: 29.98,
+    },
+    {
+      id: 'recxaXFy5IW539sgM',
+      title: 'Albany Sectional',
+      company: 'ikea',
+      image: 'https://www.course-api.com/images/store/product-11.jpeg',
+      price: 10.99,
+    },
+    {
+      id: 'recyqtRglGNGtO4Q5',
+      title: 'Leather Sofa',
+      company: 'liddy',
+      image: 'https://www.course-api.com/images/store/product-12.jpeg',
+      price: 9.99,
+    },
+  ];
