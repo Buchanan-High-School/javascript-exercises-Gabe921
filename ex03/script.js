@@ -39,3 +39,4 @@ function handleHover(event) {
   // Change the text of the target
   event.target.textContent = "OFF";
 }
+
