@@ -36,6 +36,7 @@ function displayProducts() {
                     <footer>
                         <p class="product-name">${product.title}</p>
                         <p class="product-price">${"$"+product.price}</p>
+                        <button class="product-purchase">${product.button}
                     </footer>
                 </article>`
     // Below is how to remove commas

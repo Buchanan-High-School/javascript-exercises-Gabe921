@@ -1,0 +1,39 @@
+html {
+    background-color: #f3d5ce;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+}
+
+.notsidebar {
+    display: flex;
+    margin: 10px;
+}
+
+.product {
+    margin:10px;
+    border:solid black 2px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: larger;
+    padding-bottom: 3px;
+    background-color: white;
+}
+
+.product img {
+    height: 500px;
+    width: 600px
+}
+
+.product-purchase {
+    background-color: yellow;
+}
+
+.arrow {
+    font-size: xx-large;
+    margin-left: 600px;
+    margin-bottom: 3px;
+}
