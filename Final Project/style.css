@@ -7,13 +7,27 @@ main {
     flex-direction: row;
 }
 
+.sidebar {
+    display: flex;
+    flex-direction: row;
+}
+
+#cart {
+    margin: 0px 10px 0px 10px;
+    background-color: white;
+    padding: 0px 1px 0px 1px ;
+    border: solid black 1px;
+}
+
 .notsidebar {
     display: flex;
     margin: 10px;
+    flex-direction: row;
 }
 
 .product {
-    margin:10px;
+    margin:0px 10px 0px 10px;
+    padding: 0px;
     border:solid black 2px;
     display: flex;
     flex-direction: column;
@@ -29,7 +43,9 @@ main {
 }
 
 .product-purchase {
-    background-color: yellow;
+    background-color: lightblue;
+    font-weight: bold;
+    text-shadow: 1px;
 }
 
 .arrow {

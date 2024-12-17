@@ -5,10 +5,16 @@ let filteredProducts = [...products]
 console.log(filteredProducts)
 
 // SELECTORS
-
 const productsContainer = document.querySelector(".notsidebar")
 const searchForm = document.querySelector(".input-form")
 const searchInput = document.querySelector(".search-input")
+const priceButton = document.querySelector(".PriceAdd")
+
+priceButton.addEventListener("click",() =>{
+    console.log("Clicked!")
+})
+
+
 
 
 // Create a function for the search bar

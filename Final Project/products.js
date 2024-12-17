@@ -5,7 +5,7 @@ const products = [
       company: 'ikea',
       image: 'https://www.course-api.com/images/store/product-1.jpeg',
       price: 29.99,
-      button: 'Purchase',
+      button: 'Add to Cart',
     },
     {
       id: 'rec4f2RIftFCb7aHh',
@@ -13,7 +13,7 @@ const products = [
       company: 'marcos',
       image: 'https://www.course-api.com/images/store/product-2.jpeg',
       price: 79.99,
-      button: 'Purchase',
+      button: 'Add to Cart',
     },
     {
       id: 'rec8kkCmSiMkbkiko',
@@ -21,7 +21,7 @@ const products = [
       company: 'caressa',
       image: 'https://www.course-api.com/images/store/product-3.jpeg',
       price: 25.99,
-      button: 'Purchase',
+      button: 'Add to Cart',
     },
     {
       id: 'recBohCqQsot4Q4II',
@@ -29,7 +29,7 @@ const products = [
       company: 'caressa',
       image: 'https://www.course-api.com/images/store/product-4.jpeg',
       price: 45.99,
-      button: 'Purchase',
+      button: 'Add to Cart',
     },
     {
       id: 'recDG1JRZnbpRHpoy',
@@ -37,7 +37,7 @@ const products = [
       company: 'caressa',
       image: 'https://www.course-api.com/images/store/product-5.jpeg',
       price: 55.99,
-      button: 'Purchase',
+      button: 'Add to Cart',
     },
     {
       id: 'recNWGyP7kjFhSqw3',
@@ -45,7 +45,7 @@ const products = [
       company: 'liddy',
       image: 'https://www.course-api.com/images/store/product-6.jpeg',
       price: 69.99,
-      button: 'Purchase',
+      button: 'Add to Cart',
     },
     {
       id: 'recZEougL5bbY4AEx',
@@ -53,7 +53,7 @@ const products = [
       company: 'marcos',
       image: 'https://www.course-api.com/images/store/product-7.jpeg',
       price: 58.99,
-      button: 'Purchase',
+      button: 'Add to Cart',
     },
     {
       id: 'recjMK1jgTb2ld7sv',
@@ -61,7 +61,7 @@ const products = [
       company: 'liddy',
       image: 'https://www.course-api.com/images/store/product-8.jpeg',
       price: 21.99,
-      button: 'Purchase',
+      button: 'Add to Cart',
     },
     {
       id: 'recmg2a1ctaEJNZhu',
@@ -69,7 +69,7 @@ const products = [
       company: 'marcos',
       image: 'https://www.course-api.com/images/store/product-9.jpeg',
       price: 39.95,
-      button: 'Purchase',
+      button: 'Add to Cart',
     },
     {
       id: 'recvKMNR3YFw0bEt3',
@@ -77,7 +77,7 @@ const products = [
       company: 'liddy',
       image: 'https://www.course-api.com/images/store/product-10.jpeg',
       price: 29.98,
-      button: 'Purchase',
+      button: 'Add to Cart',
     },
     {
       id: 'recxaXFy5IW539sgM',
@@ -85,7 +85,7 @@ const products = [
       company: 'ikea',
       image: 'https://www.course-api.com/images/store/product-11.jpeg',
       price: 30.99,
-      button: 'Purchase',
+      button: 'Add to Cart',
     },
     {
       id: 'recyqtRglGNGtO4Q5',
@@ -93,6 +93,6 @@ const products = [
       company: 'liddy',
       image: 'https://www.course-api.com/images/store/product-12.jpeg',
       price: 39.99,
-      button: 'Purchase',
+      button: 'Add to Cart',
     },
   ];
