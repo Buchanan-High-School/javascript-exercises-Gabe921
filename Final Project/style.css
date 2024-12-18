@@ -44,8 +44,8 @@ main {
 
 .product-purchase {
     background-color: lightblue;
-    font-weight: bold;
-    text-shadow: 1px;
+    font-weight: bolder;
+    font-size: large;
 }
 
 .arrow {
